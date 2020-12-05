@@ -11,7 +11,7 @@
 <body>
 	<div class="page-404 text-c">
 		<p class="error-title"><i class="Hui-iconfont">&#xe688;</i>404</p>
-		<p class="error-description">不好意思，您访问的页面不存在~</p>
+		<p class="error-description">不好意思，您访问的页面不存在!~</p>
 	</div>
 </body>
 </html>
